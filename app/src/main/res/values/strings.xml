@@ -1,0 +1,20 @@
+<resources>
+        <string name="app_name">GYM_MATTAS</string>
+        <string name="welcome_message">Welcome</string>
+        <string name="login_button">Log In</string>
+        <string name="logout_button">Log Out</string>
+        <string name="bmi_status">BMI Status:</string>
+        <string name="add_user">Add User</string>
+        <string name="search_hint">Search workouts...</string>
+        <string-array name="gender_array">
+            <item>Male</item>
+            <item>Female</item>
+            <item>Other</item>
+        </string-array>
+        <string-array name="membership_type_array">
+            <item>Basic</item>
+            <item>Premium</item>
+            <item>Gold</item>
+        </string-array>
+        <string name="bmi_result_text">Your BMI is: %1$s, You are classified as %2$s</string>
+</resources>
